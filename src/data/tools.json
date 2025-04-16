@@ -1,0 +1,155 @@
+{
+    "tools": [
+      {
+        "id": 1,
+        "title": "Pomodoro Mastery",
+        "slug": "pomodoro-mastery",
+        "description": "Boost your focus with the Pomodoro technique. Learn how to work in intervals for better productivity.",
+        "price": 0,
+        "instructor": "Clarity Team",
+        "isFeatured": true,
+        "image": "/tools/pomodoro.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Notion Workflow Setup",
+        "slug": "notion-workflow-setup",
+        "description": "Organize notes, tasks, and databases effectively using Notion.",
+        "price": 0,
+        "instructor": "Aniket Sharma",
+        "isFeatured": true,
+        "image": "/tools/notion.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Time Blocking Techniques",
+        "slug": "time-blocking-techniques",
+        "description": "Master time-blocking to structure your day and maximize focus.",
+        "price": 0,
+        "instructor": "Clarity Coach",
+        "isFeatured": false,
+        "image": "/tools/time-blocking.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Daily Planner Templates",
+        "slug": "daily-planner-templates",
+        "description": "Download minimal, distraction-free daily planner templates.",
+        "price": 0,
+        "instructor": "ClarityKit",
+        "isFeatured": false,
+        "image": "/tools/planner.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Habit Tracker Guide",
+        "slug": "habit-tracker-guide",
+        "description": "Build consistent habits with easy-to-use digital and paper trackers.",
+        "price": 0,
+        "instructor": "Aniket Sharma",
+        "isFeatured": true,
+        "image": "/tools/habit-tracker.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Goal Setting 101",
+        "slug": "goal-setting-101",
+        "description": "Learn the SMART method to set achievable, clear goals.",
+        "price": 0,
+        "instructor": "Clarity Coach",
+        "isFeatured": false,
+        "image": "/tools/goal-setting.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Distraction Detox",
+        "slug": "distraction-detox",
+        "description": "Eliminate digital distractions and reclaim your focus.",
+        "price": 0,
+        "instructor": "Clarity Team",
+        "isFeatured": true,
+        "image": "/tools/distraction.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Morning Routine Builder",
+        "slug": "morning-routine-builder",
+        "description": "Create a powerful morning routine to start your day energized.",
+        "price": 0,
+        "instructor": "Aniket Sharma",
+        "isFeatured": false,
+        "image": "/tools/morning-routine.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Focus Music Playlists",
+        "slug": "focus-music-playlists",
+        "description": "Curated lo-fi and ambient playlists to help you stay in the zone.",
+        "price": 0,
+        "instructor": "Clarity Team",
+        "isFeatured": false,
+        "image": "/tools/focus-music.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Mind Dump Method",
+        "slug": "mind-dump-method",
+        "description": "Clear mental clutter and organize your thoughts efficiently.",
+        "price": 0,
+        "instructor": "Clarity Coach",
+        "isFeatured": false,
+        "image": "/tools/mind-dump.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Weekly Review Template",
+        "slug": "weekly-review-template",
+        "description": "Reflect on your week and plan ahead with this simple review method.",
+        "price": 0,
+        "instructor": "ClarityKit",
+        "isFeatured": true,
+        "image": "/tools/weekly-review.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Deep Work Blueprint",
+        "slug": "deep-work-blueprint",
+        "description": "Learn how to enter deep work mode and eliminate shallow tasks.",
+        "price": 0,
+        "instructor": "Clarity Team",
+        "isFeatured": true,
+        "image": "/tools/deep-work.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Minimalist Desk Setup Guide",
+        "slug": "minimalist-desk-setup",
+        "description": "Improve your workspace for better clarity and fewer distractions.",
+        "price": 0,
+        "instructor": "Aniket Sharma",
+        "isFeatured": false,
+        "image": "/tools/desk-setup.jpg"
+      },
+      {
+        "id": 14,
+        "title": "2-Minute Rule System",
+        "slug": "two-minute-rule",
+        "description": "Use the 2-minute rule to defeat procrastination instantly.",
+        "price": 0,
+        "instructor": "Clarity Coach",
+        "isFeatured": false,
+        "image": "/tools/2min-rule.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Digital Declutter Kit",
+        "slug": "digital-declutter-kit",
+        "description": "Clean up your phone, inbox, and digital space for peace of mind.",
+        "price": 0,
+        "instructor": "Clarity Team",
+        "isFeatured": true,
+        "image": "/tools/digital-declutter.jpg"
+      }
+    ]
+  }
+  
