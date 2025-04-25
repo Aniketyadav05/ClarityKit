@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="dark">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased cz-shortcut-listen="true"`}
       >
         <div className="relative w-full flex items-center justify-center">
         <Navbar/>
