@@ -1,7 +1,7 @@
 'use client'
 import Image from "next/image";
 import { StickyScroll } from "./ui/sticky-scroll-reveal"
-
+import timer from "../images/timer.jpeg"
 const content = [
     {
       title: "Focus Mode",
@@ -20,7 +20,7 @@ const content = [
       content: (
         <div className="flex h-full w-full items-center justify-center text-white">
           <Image
-            src="/timer.webp"
+            src={timer} 
             width={300}
             height={300}
             className="h-full w-full object-cover"
